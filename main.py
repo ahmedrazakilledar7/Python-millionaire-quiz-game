@@ -15,7 +15,7 @@ questions = [
 "Ambani",
 "Adani",
 "Birla",
-"nova",
+"Nova",
 4 ],
 ["4.Capital of india ?",
 "Delhi",
