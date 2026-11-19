@@ -38,7 +38,7 @@ for question in questions:
         a = int(input("\n*Press 1 for A, 2 for B, 3 for C, 4 for D*\n Enter your answer: "))
 
         if a == question[5]:
-            print("Correct answer!!!")
+            print("Correct answer!")
             print(f"You have won ₹{winnings[i]}\n")
         else:
             print(f"Wrong answer.\n *The correct answer was {question[question[5]]}*")
